@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "75774afcb125f77c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7e3950ec8fb9a40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d029539163209157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1"
+            }
+          },
+          {
+            "id": "3a382d9626fabafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operating Systems"
+            }
+          },
+          {
+            "id": "df96b37fe10e13b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 9"
+            }
+          },
+          {
+            "id": "e727ead75a3fbeee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas of confusion and for cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Areas of confusion and for cheatsheet"
+            }
+          },
+          {
+            "id": "19ce236546069d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP IP"
+            }
+          },
+          {
+            "id": "339f14c6915edb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "race conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "race conditions"
+            }
+          },
+          {
+            "id": "704c159f43c8bba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheet notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheatsheet notes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a296a3a079186627",
+    "type": "split",
+    "children": [
+      {
+        "id": "b03cddb029f6a625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a719339c93589074",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2010fc2324c92a7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "527377e3ff1fdc84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08d19fd891fee3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "df75effdb3ff9b72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a1ad72bff693a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TCP IP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TCP IP"
+            }
+          },
+          {
+            "id": "bcd380f50b64ac45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TCP IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TCP IP"
+            }
+          },
+          {
+            "id": "eb42086fa40ea490",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60d5b68ebd283694",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TCP IP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TCP IP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "df96b37fe10e13b6",
+  "lastOpenFiles": [
+    "CompSysNotes",
+    "Multi-threaded Web Server.md",
+    "Week 9.md",
+    "Areas of confusion and for cheatsheet.md",
+    "Cheatsheet notes.md",
+    "Week 1.md",
+    "TCP IP.md",
+    "Study and revise.md",
+    "HTTP.md",
+    "Protocol.md",
+    "race conditions.md",
+    "Interprocess communication.md",
+    "OSI.md",
+    "Operating Systems.md",
+    "Pasted image 20240602140140.png",
+    "Pasted image 20240602135749.png",
+    "Pasted image 20240602134046.png",
+    "Pasted image 20240601090837.png",
+    "CPU Scheduling.md",
+    "CPU.md",
+    "Untitled.canvas",
+    "2024-04-10.md",
+    "().md",
+    "Images/Pasted image 20240531164645.png",
+    "Internet Network.md",
+    "Networks and layers.md",
+    "Connection-Oriented.md",
+    "Week 8.md",
+    "Week 11.md",
+    "Week 12.md",
+    "Images/Pasted image 20240531164633.png",
+    "Subnets.md",
+    "Images/Pasted image 20240531163340.png",
+    "Images/Pasted image 20240531163320.png",
+    "Images/Pasted image 20240531163304.png",
+    "Images/Pasted image 20240531163246.png",
+    "BGP.md",
+    "TCP",
+    "Images"
+  ]
+}

@@ -1,0 +1,2 @@
+Also known as IPC. Processes frequently need to communicate with other processes, this creates the need to share resources/data. Its important to avoid [[race conditions]]
+Note that both the terms process and thread can be used interchangeable for IPC as they both have the same problems and solutions.
